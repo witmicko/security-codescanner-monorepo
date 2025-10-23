@@ -12,7 +12,7 @@ This monorepo provides a reusable security scanning workflow with automatic lang
 - **`packages/semgrep-action/`** - Semgrep pattern-based scanner
 
 ## 🚀 Quick Start
-
+test for relaease
 ### Using the Scanner (Recommended)
 
 Add to your repository's `.github/workflows/security.yml`:
